@@ -97,7 +97,7 @@ public class BSTApplication {
         }
     }
 
-    // Helper method to safely get an integer input
+    // Only accept integer input
     private static int getValidInt(Scanner scanner) {
         while (true) {
             try {
