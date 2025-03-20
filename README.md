@@ -4,6 +4,7 @@
 This project is a basic implementation of a **Binary Search Tree (BST)** in Java. It supports basic operations such as:
 - **Insertion** of values into the tree
 - **Searching** for values
+- **Deletion operation** to remove values from the BST.
 - **Displaying** the tree in sorted order (in-order traversal)
 
 This project was originally structured with a `Tree` class, which has been refactored to follow industry naming conventions and best practices. The core logic now resides in the `BinarySearchTree` class.
@@ -43,7 +44,6 @@ Contains Values ? false
 ```
 
 ## Future Enhancements
-- **Deletion operation** to remove values from the BST.
 - **Balancing techniques** for better efficiency.
 - **Graphical visualization** to represent the BST structure.
 
