@@ -1,7 +1,7 @@
 # Binary Search Tree Implementation
 
 ## Overview
-This project is a basic implementation of a **Binary Search Tree (BST)** in Java. The BST supports basic operations such as:
+This project is a basic implementation of a **Binary Search Tree (BST)** in Java. It supports basic operations such as:
 - **Insertion** of values into the tree
 - **Searching** for values
 - **Displaying** the tree in sorted order (in-order traversal)
